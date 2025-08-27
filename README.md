@@ -1,4 +1,8 @@
-## Hi there 👋
+## Desenvolvedora FullStack
+
+Meu nome é Francisco Balbino, mas pode me chamar de Chico, tenho 18 anos e sou natural de Fortaleza (CE). Sou estudante da rede SESI SENAI, e estou atualmete terminando o curso de Análise e Desenvolvimento de Sistemas.
+
+Gosto muito de tecnologia e a parte do desenvolvimento por trás dela. Me segue no meu Instagram, no perfil " chic0macedo_ ".
 
 <!--
 **Balbaino/Balbaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
