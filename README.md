@@ -1,4 +1,4 @@
-## Desenvolvedora FullStack
+ 👋😁👍 Desenvolvedor FullStack
 
 Meu nome é Francisco Balbino, mas pode me chamar de Chico, tenho 18 anos e sou natural de Fortaleza (CE). Sou estudante da rede SESI SENAI, e estou atualmete terminando o curso de Análise e Desenvolvimento de Sistemas.
 
